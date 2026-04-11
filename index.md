@@ -2,7 +2,7 @@
 
 <style>
   .container-lg {
-    max-width: 830px !important;
+    max-width: 860px !important;
   }
 </style>
 
