@@ -1,4 +1,12 @@
 
+
+<style>
+  .container-lg {
+    max-width: 800px !important;
+  }
+</style>
+
+
 <script>
   const h1 = document.querySelector('h1');
   if (h1) {
@@ -8,6 +16,7 @@
     h1.parentNode.replaceChild(h3, h1);
   }
 </script>
+
 
 **Tools** 
 
