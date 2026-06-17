@@ -22,7 +22,7 @@
 
 C/C++, Matlab & Simulink, Python, PyTorch, LaTeX, OpenBayes
 
-#### Academic Services
+## Academic Services
 
 ICRA, IROS
 
