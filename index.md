@@ -20,11 +20,11 @@
 
 **Tools** 
 
-C/C++, Matlab & Simulink, Python, PyTorch, LaTeX, OpenBayes
+xyz
 
-## Academic Services
+## Services
 
-ICRA, IROS
+xyz
 
 
 
